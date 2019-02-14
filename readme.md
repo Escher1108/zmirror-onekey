@@ -1,3 +1,6 @@
+#本仓库拷贝来源为：aploium,请致谢大佬
+#本站所有权归源作者所有
+
 # [zmirror](https://github.com/aploium/zmirror) 一键部署脚本
 
 使用[zmirror](https://github.com/aploium/zmirror)快速部署镜像的脚本  
